@@ -15,10 +15,10 @@ conn = clickhouse_driver.connect(
 
 Run the script
 <pre id="example"><code class="language-lang"  style="color: #333; background: #f8f8f8;"> 
-python uploadFile.py
+python monitoring_clickhouse.py
 
 or
 
-python3 uploadFile.py
+python3 monitoring_clickhouse.py
 </code></pre>
 
